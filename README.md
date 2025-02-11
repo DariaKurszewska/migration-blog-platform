@@ -52,7 +52,6 @@ Below is a list of key issues I identified during testing:
 1. **Redirection to a 404 page after clicking the ‘Buy Me a Coffee’ button.** (Fixed, but the label still needs updating.)
 2. **Access denied (403) error after clicking the "Real Canadian Superstore" link.**
 3. **The Instagram icon in the footer does not redirect to the correct eKanada Instagram page.**
-4. **Next and Previous buttons in blog articles display English labels instead of Polish.**
 
 **Compliance & Usability Issues:**
 
@@ -60,7 +59,7 @@ Below is a list of key issues I identified during testing:
 6. **Missing checkbox or information for data sharing consent in all forms (subscription, contact, and registration).**
 7. **No easy access to the Privacy Policy and Data Processing Information in the footer.**
 8. **Cookie consent banner displayed in English on a Polish website.**
-9. **Responsiveness issue caused by an unembedded Google Forms URL, leading to unwanted horizontal scrolling and misaligned popups on mobile.**
+9. **Next and Previous buttons in blog articles display English labels instead of Polish.**
 
 **Project Status**
 
