@@ -55,11 +55,11 @@ Below is a list of key issues I identified during testing:
 
 **Compliance & Usability Issues:**
 
-5. **Full Google Form link displayed in content on the "Sesja Informacyjna" page instead of being embedded.**
-6. **Missing checkbox or information for data sharing consent in all forms (subscription, contact, and registration).**
-7. **No easy access to the Privacy Policy and Data Processing Information in the footer.**
-8. **Cookie consent banner displayed in English on a Polish website.**
-9. **Next and Previous buttons in blog articles display English labels instead of Polish.**
+4. **Full Google Form link displayed in content on the "Sesja Informacyjna" page instead of being embedded.**
+5. **Missing checkbox or information for data sharing consent in all forms (subscription, contact, and registration).**
+6. **No easy access to the Privacy Policy and Data Processing Information in the footer.**
+7. **Cookie consent banner displayed in English on a Polish website.**
+8. **Next and Previous buttons in blog articles display English labels instead of Polish.**
 
 **Project Status**
 
