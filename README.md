@@ -1,5 +1,7 @@
 **Project Overview**
 
+This project was originally managed in Jira and Confluence, where all test documentation, bug tracking, and reporting were conducted. I have transferred the found bugs here as part of my portfolio to showcase my work and contributions.
+
 This project is focused on the **eKanada Migration Blog**, a platform providing valuable information for individuals migrating to Canada. The website/blog has been in use since 2016 and includes:
 
 - Comprehensive guides on living in Canada.
@@ -32,7 +34,7 @@ After completing a software testing course to apply and further develop my skill
 
 - **Functional Testing:** Verified core functionalities such as navigation, menus, and dynamic content.
 - **Error Handling:** Tested the site’s response to invalid data (without submitting real data), including edge case validation in form fields.
-- **Responsiveness Testing:** Ensured the website adapts correctly to different screen sizes and devices, using BrowserStack and physical devices:
+- **Responsiveness Testing:** Ensured the website adapts correctly to different screen sizes and devices, using BrowserStack and mobile devices:
   - **Smartphone:** Samsung SM-S901B/DS (Android 14, OneUI 6.1) with Google Chrome v132.0.6834.165.
   - **Tablet:** Samsung SM-X210 (Android 14, OneUI 6.1) with Google Chrome v133.0.6943.49.
   - A discovered usability issue with responsiveness was linked to another usability issue: a full Google Forms URL in the content caused unwanted horizontal scrolling and incorrect popup positioning on mobile. Hiding the URL will resolve this issue.
@@ -45,7 +47,7 @@ After completing a software testing course to apply and further develop my skill
 
 **Issues Identified**
 
-Below is a list of key issues I identified during testing:
+Below is a list of issues I identified during testing:
 
 **Functionality Issues:**
 
