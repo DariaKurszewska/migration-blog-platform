@@ -66,8 +66,8 @@ Below is a list of issues I identified during testing:
 **Project Status**
 
 - No updates are planned for the website in the near future.
-- One issue has been fixed, improving user experience.
-- Seven remaining issues are tracked in GitHub Issues, categorized as low or medium severity.
+- All identified issues have been fixed, improving the user experience.
+- A few minor issues remain, which were identified during retesting and regression, and are tracked in GitHub Issues.
 - I am currently involved in a new project with the same owner and will share details upon its official release.
 
 **Authorization**
